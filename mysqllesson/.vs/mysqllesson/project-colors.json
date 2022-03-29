@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "471630ad-1354-48c8-8eb3-e298a9652aeb": {
+      "ProjectGuid": "471630ad-1354-48c8-8eb3-e298a9652aeb",
+      "DisplayName": "mysqllesson",
+      "ColorIndex": 0
+    },
+    "7db027a8-fb0c-4a4e-8ddf-d0aad597fde6": {
+      "ProjectGuid": "7db027a8-fb0c-4a4e-8ddf-d0aad597fde6",
+      "DisplayName": "libraryGUI",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
